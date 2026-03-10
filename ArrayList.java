@@ -1,5 +1,5 @@
-public class HelloApp {
+public class ArrayList {
     public static void main(String[] args) {
-	  system.out.println(X: "Hello, World!");
-	  }
+        System.out.println("Hello, World!");
+    }
 }
