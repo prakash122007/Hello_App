@@ -1,6 +1,6 @@
 class ArrayList {
     public static void main(String[] args) {
-		string msg = "This is Dev Branch"
-        System.out.println(msg);
+		System.out.println("This is UC 1");
+		System.out.println("Hello App");
     }
 }
