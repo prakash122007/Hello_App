@@ -1,4 +1,3 @@
-
 public class HelloApp {
     public static void main(String[] args) {
 
@@ -8,5 +7,6 @@ public class HelloApp {
             System.out.println("Hello World");
         }
 
+        System.out.println("Welcome to UC3 functionality");
     }
 }
